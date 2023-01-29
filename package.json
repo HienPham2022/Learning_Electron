@@ -1,0 +1,22 @@
+{
+  "name": "my_electron",
+  "version": "1.0.0",
+  "description": "my first electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HienPham2022/Learning_Electron.git"
+  },
+  "author": "MIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HienPham2022/Learning_Electron/issues"
+  },
+  "homepage": "https://github.com/HienPham2022/Learning_Electron#readme",
+  "devDependencies": {
+    "electron": "^22.1.0"
+  }
+}
